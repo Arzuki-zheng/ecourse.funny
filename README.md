@@ -14,4 +14,6 @@ DataBase:
 MySQL 8.0.20
 
 ### UpDate
-//2020/7/12 經過一兩天攻讀DB方面的知識 在建立一個DB後 嘗試利用JDBC 連結測試用的Database "test_db"  完成API與DB之間的連結 並成功對DB下達指令
+//2020/7/12 經過一兩天攻讀DB方面的知識 在建立一個DB後 嘗試利用JDBC 連結測試用的Database "test_db"  完成API與DB之間的連結 但無法成功對DB下達指令
+
+//2020/7/20 可透過postman實作註冊 登入等功能 並能從資料庫取出對應資料
